@@ -11,8 +11,8 @@ close all;
 %% Initialisation
 
 % Add other folders to path
-addpath('./module_conversion','./TLE_data',...
-          './functions_q1');
+addpath('./module_conversion','./tle_data',...
+          './functions');
 
 % Load constants
 constants()
