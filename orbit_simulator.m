@@ -1,6 +1,6 @@
 % Orbit Simulator
 % Input: Satellite TLE Data
-% Output: 3D Plot & Ground Trace of Satelite Orbit 
+% Output: 3D Plot & Ground Trace of Satelite Orbit
 % Author: Samanvay Karambhe 2016
 
 % Clear everything
@@ -11,7 +11,7 @@ close all;
 %% Initialisation
 
 % Add other folders to path
-addpath('./module_conversion', './module_testing','./TLE_data',...
+addpath('./module_conversion','./TLE_data',...
           './functions_q1');
 
 % Load constants
