@@ -15,3 +15,5 @@ The purpose of the orbit simulator is to simulator a satellite orbit above the e
 TLE Data for most satellites can be obtained from https://www.celestrak.com/NORAD/elements/
 
 ## Plots
+![3d plot](img/3d.png)
+![Ground Trace](img/groundtrace.png)
